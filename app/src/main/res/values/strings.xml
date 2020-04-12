@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sensor Java</string>
+    <string name="title">Conversor de unidades</string>
+    <string name="toCentigrados">A centigrados</string>
+    <string name="toFarenheit">A Farenheit</string>
+    <string name="toKelvin">A Kelvin</string>
+    <string name="centigrados">Grados centigrados</string>
+    <string name="calcular">Calcular</string>
+    <string name="result">Resultado</string>
+
+
+</resources>
